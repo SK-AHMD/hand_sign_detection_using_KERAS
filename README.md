@@ -10,4 +10,4 @@
 * OpenCV
 ## Screenshots
 
-![Example screenshot](./ss/Reason.PNG)
+![Example screenshot](./ss/Reason.png)
