@@ -1,1 +1,2 @@
-# hand_sign_detection_using_KERAS
+# hand_sign_detection_using_LSTM
+ 
