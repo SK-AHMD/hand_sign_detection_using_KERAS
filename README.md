@@ -8,6 +8,9 @@
 * TensorFlow
 * Keras
 * OpenCV
+## Software used
+* Jupyter Notebook ( not mandatory )
+
 ## Screenshots
 
 ![Example screenshot](./ss/Reason.png)
